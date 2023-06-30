@@ -1,0 +1,3 @@
+/data/homography_mixtures/SGridSearch/CMakeFiles/rebuild_cache.dir
+/data/homography_mixtures/SGridSearch/CMakeFiles/edit_cache.dir
+/data/homography_mixtures/SGridSearch/CMakeFiles/SGriSearch.dir
